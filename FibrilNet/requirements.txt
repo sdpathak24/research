@@ -1,0 +1,7 @@
+tensorflow==1.11.0
+keras==2.2.4
+astropy==4.1
+numpy==1.19.1
+scikit-image==0.17.2
+matplotlib==3.3.4
+opencv-python==4.5.3.56
